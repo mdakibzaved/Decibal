@@ -1,0 +1,13 @@
+body {
+    --e-global-color-primary: #153C33;
+    --e-global-color-secondary: #E6EFED;
+    --e-global-color-text: #153C33B3;
+    --e-global-color-accent: #619E90;
+    --e-global-color-white: #FFFFFF;
+    --e-global-color-divider: #FFFFFF26;
+    --e-global-color-darkdivider: #153C331A;
+    --e-global-typography-primary-font-family: "Archivo", sans-serif;
+    --e-global-typography-secondary-font-family: "Archivo", sans-serif;
+    --e-global-typography-text-font-family: "DM Sans", sans-serif;
+    --e-global-typography-accent-font-family: "Archivo", sans-serif;
+}
